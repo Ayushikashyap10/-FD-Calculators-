@@ -1,1 +1,1 @@
-# -FD-Calculators-
+# -FD-Calculators- The FD (Fixed Deposit) Calculator is a financial tool designed to help users calculate the maturity amount and interest earned on a fixed deposit investment. The calculator takes into account the principal amount, interest rate, and time period to provide accurate results, enabling users to make informed decisions about their investments.
